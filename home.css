@@ -49,10 +49,10 @@ line-height: 28px;
 }
 
 .btn-bg-1 {
-    background-image: url('/downloadbtn.svg');
+    background-image: url('/images/downloadbtn.svg');
   }
   .btn-bg-2 {
-    background-image: url('/downloadbtn2.svg');
+    background-image: url('/images/downloadbtn2.svg');
   }
 
   .custom-container{
@@ -103,7 +103,7 @@ line-height: 28px;
   }
 
   .mobile-img{
-    background-image: url('/mobile.svg');
+    background-image: url('/images/mobile.svg');
 
   }
 
@@ -128,14 +128,14 @@ line-height: 28px;
     text-align: left;
   }
   .add-to-back{
-    background-image: url('/mobile-back.svg');
+    background-image: url('/images/mobile-back.svg');
     background-size: cover;
     background-position: center;
     height: 50%;
   }
   .central-image-container{
     position: relative;
-    background-image: url('/mobile.svg');
+    background-image: url('/images/mobile.svg');
     left: 20%;
     display: flex;
     background-repeat: no-repeat;
@@ -149,7 +149,7 @@ line-height: 28px;
     right: 41%;
     width: 70%;
     height: 320px; /* Adjust the height as needed */
-    background-image: url('/mobile-back.svg');
+    background-image: url('/images/mobile-back.svg');
     background-size: cover;
     background-position: center;
   }
@@ -261,10 +261,10 @@ width: 20%;
                 }
 
 .btn-bg-3 {
-background-image: url('/downloadbtn.svg');
+background-image: url('/images/downloadbtn.svg');
                   }
 .btn-bg-4 {
-background-image: url('/downloadbtn2.svg');
+background-image: url('/images/downloadbtn2.svg');
                   }
 
 
