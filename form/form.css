@@ -1,0 +1,21 @@
+.horizontal-line{
+    border: 1px solid lightgray;
+    width: 90%;
+    margin: 30px;
+}
+.card-horizontal-line{
+    border: 1px solid lightgray;
+    width: 100%;
+    margin: 10px;
+}
+
+.change-color{
+    color: grey;
+}
+.product-name-color{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.space{
+    margin-top: 20px;
+}
